@@ -9,4 +9,13 @@
     <h3>Frontend:</h3>
     <li>HTML | CSS | Bootstrap | Tailwind CSS | Daisy UI</li>
     <li>JavaScript | React.js | Next.js | React Native | React Native Paper | Material UI (MUI)</li>
+    <h3>Backend:</h3>
+    <li>Node.js | Express.js | API Integration</li>
+    <h3>Database & Cloud Services:</h3>
+    <li>MongoDB | Firebase | Supabase | Stripe (Payment Integration)</li>
+    <h3>Version Control & Deployment:</h3>
+    <li>Git | GitHub | SMTP Mail</li>
+    <h3>Deployment Platforms:</h3>
+    <li>Vercel | Netlify</li>
 </ul>
+<h3>### Thank You for Visiting!</h3>
