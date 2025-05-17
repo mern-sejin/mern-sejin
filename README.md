@@ -18,4 +18,3 @@
     <h3>Deployment Platforms:</h3>
     <li>Vercel | Netlify</li>
 </ul>
-<h3>### Thank You for Visiting!</h3>
