@@ -12,7 +12,7 @@
     <h3>Backend:</h3>
     <li>Node.js | Express.js | API Integration</li>
     <h3>Database & Cloud Services:</h3>
-    <li>MongoDB | Firebase | Supabase | Stripe (Payment Integration)</li>
+    <li>MongoDB | Firebase | Supabase | Google Cloud | Stripe (Payment Integration)</li>
     <h3>Version Control & Deployment:</h3>
     <li>Git | GitHub | SMTP Mail</li>
     <h3>Deployment Platforms:</h3>
