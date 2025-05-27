@@ -34,7 +34,3 @@
 <img src='https://github-readme-stats.vercel.app/api?username=mern-sejin&show_icons=true&theme=radical' alt='github-stats'/>
 <h2>Most Used Languages</h2>
 <img src='https://github-readme-stats.vercel.app/api/top-langs?username=mern-sejin&show_icons=true&theme=radical' alt='languages'/>
-<h2>Website</h2>
-<span>https://jupiter-programmer.vercel.app</span>
-<h2>Contact With Me</h2>
-<span>Email: web.jupiter.programmer@gmail.com</span>
